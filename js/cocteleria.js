@@ -6,22 +6,85 @@
 
   const recetas = [
     {
-      nombre: 'Old Fashioned Bohemio',
-      base: 'Whisky',
-      ingredientes: ['60 ml de whisky (Buchanan\'s 12 Años)', '1 cucharadita de azúcar', '2 dashes de amargo de angostura', 'Una tira de cáscara de naranja', 'Hielo en cubo grande'],
-      pasos: ['Disuelve el azúcar con el amargo y un chorrito de agua en el vaso.', 'Agrega el hielo y el whisky, remueve lento 20 segundos.', 'Exprime la cáscara de naranja sobre el trago y decora.'],
+      nombre: 'Whisky Highball',
+      base: 'Whisky — Old Times Red',
+      graduacion: '~9% ABV',
+      ingredientes: [
+        '2 oz de Old Times Red (40% vol.)',
+        '4 oz de agua con gas / soda',
+        'Hielo al gusto',
+        '1 twist de limón',
+      ],
+      pasos: [
+        'Llena un vaso alto con hielo.',
+        'Vierte el Old Times Red y completa con la soda.',
+        'Remueve suavemente y decora con el twist de limón.',
+      ],
     },
     {
-      nombre: 'Gin Tonic Andino',
-      base: 'Ginebra',
-      ingredientes: ['50 ml de ginebra (Bombay Sapphire)', '150 ml de agua tónica', 'Rodajas de pepino', 'Ramitas de hierba luisa', 'Hielo abundante'],
-      pasos: ['Llena la copa con hielo hasta el borde.', 'Sirve la ginebra y completa con la tónica sin remover fuerte.', 'Decora con pepino y hierba luisa.'],
+      nombre: 'Cuba Libre',
+      base: 'Ron — Bacardí Carta Blanca',
+      graduacion: '~11% ABV',
+      ingredientes: [
+        '2 oz de Bacardí Carta Blanca (37.5% vol.)',
+        '4 oz de Coca-Cola',
+        '½ oz de jugo de limón',
+        'Hielo al gusto',
+      ],
+      pasos: [
+        'En un vaso alto con hielo, vierte el ron y el jugo de limón.',
+        'Completa con la Coca-Cola.',
+        'Remueve una vez y sirve.',
+      ],
     },
     {
-      nombre: 'Canelazo 593',
-      base: 'Aguardiente',
-      ingredientes: ['45 ml de aguardiente (Cristal Añejo)', '200 ml de agua de canela caliente', '1 cucharadita de panela o azúcar', 'Jugo de media naranjilla'],
-      pasos: ['Calienta el agua con canela y panela hasta disolver.', 'Añade el jugo de naranjilla y el aguardiente.', 'Sirve caliente en taza de barro.'],
+      nombre: 'Vodka Tonic',
+      base: 'Vodka — Skyy',
+      graduacion: '~10% ABV',
+      ingredientes: [
+        '2 oz de Skyy Vodka (40% vol.)',
+        '4 oz de agua tónica',
+        '1 rodaja de limón o pepino',
+        'Hielo al gusto',
+      ],
+      pasos: [
+        'Llena un vaso alto con hielo.',
+        'Añade el Skyy y completa con la tónica.',
+        'Remueve y decora con limón o pepino.',
+      ],
+    },
+    {
+      nombre: 'Margarita Sencilla',
+      base: 'Tequila — Azteca',
+      graduacion: '~22–27% ABV',
+      ingredientes: [
+        '2 oz de Tequila Azteca (40% vol.)',
+        '1 oz de jugo de limón',
+        '1 oz de triple seco o jarabe',
+        'Sal para escarchar el borde',
+        'Hielo al gusto',
+      ],
+      pasos: [
+        'Escarcha el borde de una copa con sal.',
+        'En una coctelera con hielo, agita el tequila, el limón y el triple seco.',
+        'Cuela en la copa y sirve.',
+      ],
+    },
+    {
+      nombre: 'Digestivo con Hierbas y Tónica',
+      base: 'Digestivo — Jägermeister',
+      graduacion: '~12–14% ABV',
+      ingredientes: [
+        '1½ oz de Jägermeister (35% vol.)',
+        '3 oz de agua tónica',
+        '1 rodaja de naranja',
+        'Hielo al gusto',
+      ],
+      pasos: [
+        'En un vaso con hielo, vierte el Jägermeister.',
+        'Completa con la tónica.',
+        'Decora con la rodaja de naranja y sirve.',
+      ],
     },
   ];
 
@@ -29,6 +92,7 @@
     <article class="receta-card">
       <p class="receta-card__base">${r.base}</p>
       <h3>${r.nombre}</h3>
+      <p class="receta-card__graduacion">Graduación del cóctel: <strong>${r.graduacion}</strong></p>
       <h4>Ingredientes</h4>
       <ul>${r.ingredientes.map(i => `<li>${i}</li>`).join('')}</ul>
       <h4>Preparación</h4>
