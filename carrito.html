@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Carrito — BOHEMIO 593</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div id="age-gate" class="age-gate" aria-modal="true" role="dialog" aria-labelledby="age-gate-title">
+  <div class="age-gate__panel">
+    <p class="age-gate__mark">593</p>
+    <h1 id="age-gate-title" class="age-gate__title">¿Eres mayor de edad?</h1>
+    <p class="age-gate__text">Este es un espacio para el buen beber. Necesitamos confirmar que tienes 18 años o más antes de entrar.</p>
+    <div class="age-gate__actions">
+      <button id="age-confirm" class="btn btn--gold">Soy mayor de edad</button>
+      <button id="age-exit" class="btn btn--ghost">Salir</button>
+    </div>
+  </div>
+</div>
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="index.html" class="brand">BOHEMIO <span>593</span></a>
+    <div class="header__actions">
+      <a href="carrito.html" class="cart-link" aria-label="Ver carrito">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="9" cy="21" r="1"/><circle cx="19" cy="21" r="1"/><path d="M2.5 3h2l2.4 12.2a2 2 0 0 0 2 1.6h8.2a2 2 0 0 0 2-1.6L21 7H6"/></svg>
+        <span class="cart-badge" id="cart-badge">0</span>
+      </a>
+      <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <nav class="site-nav" id="site-nav">
+      <a href="catalogo.html?cat=Whisky">Whisky</a>
+      <a href="catalogo.html?cat=Ron">Ron</a>
+      <a href="catalogo.html?cat=Vodka">Vodka</a>
+      <a href="catalogo.html?cat=Tequila">Tequila</a>
+      <a href="catalogo.html?cat=Digestivo">Digestivos &amp; Hierbas</a>
+      <a href="cocteleria.html">Recomendaciones del Buen Beber</a>
+    </nav>
+  </div>
+</header>
+
+<main class="site-main">
+  <div class="carrito">
+    <h1>Tu carrito</h1>
+    <div id="carrito-content"></div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <p class="brand brand--footer">BOHEMIO <span>593</span></p>
+    <p class="site-footer__text">Licorería y cava digital en Quito, Ecuador. Bebe con moderación.</p>
+    <p class="site-footer__legal">© <span id="year"></span> BOHEMIO 593. Venta exclusiva a mayores de 18 años.</p>
+  </div>
+</footer>
+
+<a id="whatsapp-btn" class="whatsapp-fab" target="_blank" rel="noopener"
+   href="https://wa.me/593000000000?text=Hola%20BOHEMIO%20593%2C%20quisiera%20realizar%20una%20consulta%20%2F%20pedido%20sobre..."
+   aria-label="Escribir por WhatsApp">
+  <svg viewBox="0 0 32 32" width="26" height="26" aria-hidden="true">
+    <path fill="currentColor" d="M16 3C9.4 3 4 8.4 4 15c0 2.2.6 4.3 1.7 6.1L4 29l8.1-1.6c1.7.9 3.6 1.4 5.9 1.4 6.6 0 12-5.4 12-12S22.6 3 16 3zm0 21.8c-1.9 0-3.7-.5-5.3-1.4l-.4-.2-4.8.9.9-4.6-.2-.4C5.3 17.4 4.8 15.7 4.8 15c0-6.2 5-11.2 11.2-11.2S27.2 8.8 27.2 15 22.2 24.8 16 24.8zm6-8.3c-.3-.2-2-1-2.3-1.1-.3-.1-.5-.2-.7.2-.2.3-.8 1.1-1 1.3-.2.2-.4.2-.7.1-.3-.2-1.4-.5-2.6-1.6-1-.9-1.6-2-1.8-2.3-.2-.3 0-.5.1-.6.1-.1.3-.4.5-.5.1-.2.2-.3.3-.5.1-.2 0-.4 0-.5-.1-.2-.7-1.7-1-2.3-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1 1-1 2.4s1.1 2.8 1.2 3c.1.2 2.2 3.3 5.3 4.6.7.3 1.3.5 1.8.7.7.2 1.4.2 1.9.1.6-.1 2-.8 2.2-1.5.3-.7.3-1.4.2-1.5-.1-.1-.3-.2-.6-.3z"/>
+  </svg>
+</a>
+
+<script src="js/config.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/main.js"></script>
+<script src="js/carrito.js"></script>
+</body>
+</html>
