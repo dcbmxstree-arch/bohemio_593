@@ -58,7 +58,7 @@
     return `
       <a class="product-card product-card--link" href="producto.html?id=${p.id}">
         <div class="product-card__img"><img src="${p.imagen}" alt="${p.titulo}" loading="lazy"></div>
-        <p class="product-card__tag">${p.categoria}${p.presentacion ? ' · ' + p.presentacion : ''}</p>
+        <p class="product-card__tag">${p.categoria}${p.presentacion ? ' · ' + p.presentacion : ''}${p.gradoAlcoholico ? ' · ' + p.gradoAlcoholico + '%' : ''}</p>
         <h3 class="product-card__name">${p.titulo}</h3>
         ${precioHtml}
       </a>
@@ -130,3 +130,4 @@
   if (params.get('q')) searchInput.value = params.get('q');
   applyFilters();
 })();
+
