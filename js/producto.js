@@ -36,7 +36,7 @@
       <div class="producto__layout">
         <div class="producto__gallery"><img src="${p.imagen}" alt="${p.titulo}"></div>
         <div class="producto__info">
-          <p class="producto__tag">${p.categoria}${p.presentacion ? ' · ' + p.presentacion : ''}</p>
+          <p class="producto__tag">${p.categoria}${p.presentacion ? ' · ' + p.presentacion : ''}${p.gradoAlcoholico ? ' · ' + p.gradoAlcoholico + '% vol.' : ''}</p>
           <h1>${p.titulo}</h1>
           <p class="product-card__proximamente producto__proximamente">Próximamente</p>
           <p class="producto__desc">${p.descripcion || 'Estamos por confirmar el ingreso de este producto a nuestro stock.'}</p>
@@ -52,7 +52,7 @@
     <div class="producto__layout">
       <div class="producto__gallery"><img src="${p.imagen}" alt="${p.titulo}"></div>
       <div class="producto__info">
-        <p class="producto__tag">${p.categoria}${p.presentacion ? ' · ' + p.presentacion : ''} · ${p.origen}</p>
+        <p class="producto__tag">${p.categoria}${p.presentacion ? ' · ' + p.presentacion : ''} · ${p.origen}${p.gradoAlcoholico ? ' · ' + p.gradoAlcoholico + '% vol.' : ''}</p>
         <h1>${p.titulo}</h1>
         <p class="producto__precio" id="precio-total">$${p.precio.toFixed(2)}</p>
         ${p.descripcion ? `<p class="producto__desc">${p.descripcion}</p>` : ''}
@@ -109,3 +109,4 @@
     document.getElementById('agregar-confirm').hidden = false;
   });
 })();
+
