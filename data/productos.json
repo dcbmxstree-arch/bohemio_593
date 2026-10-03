@@ -104,7 +104,7 @@
     "presentacion": "750 ml",
     "precio": 18.4,
     "origen": "Importado",
-    "imagen": "assets/charro-gold.jpg",
+    "imagen": "assets/charro_gold.jpg",
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
