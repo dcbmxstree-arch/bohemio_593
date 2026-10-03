@@ -4,13 +4,14 @@
     "titulo": "Tequila Espuela Gold",
     "categoria": "Tequila",
     "presentacion": "750 ml",
-    "precio": 16.7,
+    "precio": 16.73,
     "origen": "Importado",
     "imagen": "assets/espuela_gold.jpg",
     "descripcion": "Licor de agave 100% mexicano, versión gold.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "tequila-espuela-silver",
@@ -23,7 +24,8 @@
     "descripcion": "Licor de agave 100% mexicano, versión silver.",
     "destacado": true,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "tequila-azteca-guitarra",
@@ -36,7 +38,8 @@
     "descripcion": "Presentación coleccionable en botella forma de guitarra.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "tequila-azteca-1l",
@@ -49,7 +52,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "tequila-azteca-750",
@@ -62,7 +66,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": true,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "tequila-gran-malo-tamarindo",
@@ -75,7 +80,8 @@
     "descripcion": "Licor con tequila sabor tamarindo picante.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 30
   },
   {
     "id": "tequila-canijo-tamarindo",
@@ -88,7 +94,8 @@
     "descripcion": "Licor de agave sabor tamarindo picante.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 28
   },
   {
     "id": "tequila-charro-gold",
@@ -97,11 +104,12 @@
     "presentacion": "750 ml",
     "precio": 18.4,
     "origen": "Importado",
-    "imagen": "assets/charro_gold.jpg",
+    "imagen": "assets/tequila-charro-gold-2026.jpg",
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "tequila-charro-blanco",
@@ -114,7 +122,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "vodka-skyy",
@@ -127,7 +136,8 @@
     "descripcion": "",
     "destacado": true,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "vodka-skyy-raspberry",
@@ -140,7 +150,8 @@
     "descripcion": "Infusión natural de frambuesa.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 37.5
   },
   {
     "id": "vodka-siberian",
@@ -153,7 +164,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 39
   },
   {
     "id": "vodka-smirnoff",
@@ -166,7 +178,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 37.5
   },
   {
     "id": "vodka-smirnoff-tamarindo",
@@ -179,7 +192,8 @@
     "descripcion": "Edición especial sabor tamarindo picante.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "vodka-absolut-ruby-red",
@@ -192,7 +206,8 @@
     "descripcion": "Vodka sueco con infusión de toronja.",
     "destacado": true,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "vodka-lithuanian",
@@ -205,7 +220,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "ron-havana-club",
@@ -218,7 +234,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": true,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "ron-abuelo",
@@ -231,7 +248,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 37.5
   },
   {
     "id": "ron-abuelo-7",
@@ -244,7 +262,8 @@
     "descripcion": "Añejado 7 años en barricas de roble blanco.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 37.5
   },
   {
     "id": "ron-san-miguel-oro",
@@ -257,7 +276,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 32
   },
   {
     "id": "ron-san-miguel-mojito",
@@ -270,7 +290,8 @@
     "descripcion": "Cóctel de mojito listo para tomar.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 20
   },
   {
     "id": "ron-bacardi-700",
@@ -283,7 +304,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 37.5
   },
   {
     "id": "ron-bacardi-980",
@@ -296,7 +318,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": true,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 37.5
   },
   {
     "id": "ron-100-fuegos-gold",
@@ -309,7 +332,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 37.5
   },
   {
     "id": "aguardiente-antioqueno-750",
@@ -322,7 +346,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 29
   },
   {
     "id": "aguardiente-antioqueno-1l",
@@ -335,20 +360,22 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 29
   },
   {
     "id": "whisky-chivas-12",
     "titulo": "Whisky Chivas Regal 12 Años",
     "categoria": "Whisky",
     "presentacion": "700 ml",
-    "precio": 45,
+    "precio": 45.39,
     "origen": "Importado",
     "imagen": "assets/whisky_chivas_12_anos.jpg",
     "descripcion": "Blended Scotch Whisky añejado 12 años.",
     "destacado": true,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-black-label-1l",
@@ -361,7 +388,8 @@
     "descripcion": "Aged 12 years, blended Scotch whisky.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-red-label-1l",
@@ -374,7 +402,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-ballantines-700",
@@ -387,7 +416,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-buchanans-1l",
@@ -400,7 +430,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-buchanans-750",
@@ -413,59 +444,64 @@
     "descripcion": "",
     "destacado": true,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-jack-daniels",
     "titulo": "Jack Daniel's Old No. 7",
     "categoria": "Whisky",
     "presentacion": "750 ml",
-    "precio": 50,
+    "precio": null,
     "origen": "Importado",
     "imagen": "assets/jack_daniels.jpg",
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true
+    "proximamente": true,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-jack-daniels-apple",
     "titulo": "Jack Daniel's Tennessee Apple",
     "categoria": "Whisky",
     "presentacion": "750 ml",
-    "precio": 50,
+    "precio": null,
     "origen": "Importado",
     "imagen": "assets/jack_daniels_apple.jpg",
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true
+    "proximamente": true,
+    "gradoAlcoholico": 35
   },
   {
     "id": "whisky-jack-daniels-fire",
     "titulo": "Jack Daniel's Tennessee Fire",
     "categoria": "Whisky",
     "presentacion": "750 ml",
-    "precio": 50,
+    "precio": null,
     "origen": "Importado",
     "imagen": "assets/jack_daniels_fire.jpg",
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true
+    "proximamente": true,
+    "gradoAlcoholico": 35
   },
   {
     "id": "whisky-jack-daniels-honey",
     "titulo": "Jack Daniel's Tennessee Honey",
     "categoria": "Whisky",
     "presentacion": "750 ml",
-    "precio": 50,
+    "precio": null,
     "origen": "Importado",
     "imagen": "assets/jack_daniels_honey.jpg",
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true
+    "proximamente": true,
+    "gradoAlcoholico": 35
   },
   {
     "id": "whisky-black-owl",
@@ -478,7 +514,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-black-castle",
@@ -491,7 +528,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-john-morris-red",
@@ -504,7 +542,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-john-morris-black",
@@ -517,7 +556,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 40
   },
   {
     "id": "whisky-old-times-apple",
@@ -530,7 +570,8 @@
     "descripcion": "Spirit drink sabor a manzana.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 20
   },
   {
     "id": "whisky-old-times-blackberry",
@@ -543,7 +584,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 20
   },
   {
     "id": "whisky-old-times-negro",
@@ -556,7 +598,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": true,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "whisky-old-times-rojo",
@@ -569,7 +612,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "whisky-old-times-gold",
@@ -582,7 +626,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "whisky-old-times-manzana-1l",
@@ -595,7 +640,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 20
   },
   {
     "id": "digestivo-fernet",
@@ -608,7 +654,8 @@
     "descripcion": "Licor digestivo de hierbas.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true
+    "proximamente": true,
+    "gradoAlcoholico": 28
   },
   {
     "id": "digestivo-jagermeister-700",
@@ -621,7 +668,8 @@
     "descripcion": "56 hierbas y especias seleccionadas.",
     "destacado": true,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "digestivo-jagermeister-1l",
@@ -634,7 +682,8 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 35
   },
   {
     "id": "switch-daiquiri-shark",
@@ -647,7 +696,8 @@
     "descripcion": "Cóctel listo para tomar, sabor a frutos tropicales.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 8
   },
   {
     "id": "switch-bongo-bongo",
@@ -660,7 +710,8 @@
     "descripcion": "Cóctel de vodka listo para tomar.",
     "destacado": false,
     "masVendido": true,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 8
   },
   {
     "id": "switch-vodka-maracuya",
@@ -673,7 +724,8 @@
     "descripcion": "Cóctel de vodka sabor maracuyá.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 8
   },
   {
     "id": "vodka-ruskaya",
@@ -686,7 +738,8 @@
     "descripcion": "Disponible en varios sabores: Naranja, Tropical Mix, Original, Cranberry y Manzana. Consulta disponibilidad por sabor.",
     "destacado": false,
     "masVendido": true,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 29
   },
   {
     "id": "vodka-glacial",
@@ -699,6 +752,119 @@
     "descripcion": "Disponible en varios sabores: Guaraná, Original y Tropical Mix. Consulta disponibilidad por sabor.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": false
+    "proximamente": false,
+    "gradoAlcoholico": 24
+  },
+  {
+    "id": "cerveza-pilsener",
+    "titulo": "Cerveza Pilsener",
+    "categoria": "Cerveza",
+    "presentacion": "330 ml",
+    "precio": null,
+    "origen": "Nacional",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Cerveza rubia ecuatoriana, la más tradicional del país.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 4.5
+  },
+  {
+    "id": "cerveza-club-verde",
+    "titulo": "Cerveza Club Verde",
+    "categoria": "Cerveza",
+    "presentacion": "330 ml",
+    "precio": null,
+    "origen": "Nacional",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Cerveza suave y ligera, clásico ecuatoriano.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 4.8
+  },
+  {
+    "id": "cerveza-corona",
+    "titulo": "Cerveza Corona Extra",
+    "categoria": "Cerveza",
+    "presentacion": "355 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Lager mexicana ligera, ideal con limón.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 4.6
+  },
+  {
+    "id": "cerveza-heineken",
+    "titulo": "Cerveza Heineken",
+    "categoria": "Cerveza",
+    "presentacion": "330 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Lager premium holandesa.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 5.0
+  },
+  {
+    "id": "vino-malbec",
+    "titulo": "Vino Tinto Malbec",
+    "categoria": "Vino",
+    "presentacion": "750 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Tinto argentino de cuerpo intenso y taninos suaves.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 13.5
+  },
+  {
+    "id": "vino-cabernet",
+    "titulo": "Vino Cabernet Sauvignon",
+    "categoria": "Vino",
+    "presentacion": "750 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Tinto de cuerpo robusto, notas a frutos negros.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 13.5
+  },
+  {
+    "id": "vino-sauvignon-blanc",
+    "titulo": "Vino Sauvignon Blanc",
+    "categoria": "Vino",
+    "presentacion": "750 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Blanco fresco y cítrico, ideal para acompañar mariscos.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 12.5
+  },
+  {
+    "id": "vino-espumante",
+    "titulo": "Vino Espumante Brut",
+    "categoria": "Vino",
+    "presentacion": "750 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Burbuja fina, perfecto para brindis y celebraciones.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 12.0
   }
 ]
