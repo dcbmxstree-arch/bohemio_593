@@ -126,6 +126,20 @@
     "gradoAlcoholico": 35
   },
   {
+    "id": "tequila-monte-azul-reposado",
+    "titulo": "Tequila Monte Azul Reposado",
+    "categoria": "Tequila",
+    "presentacion": "750 ml",
+    "precio": 22,
+    "origen": "Importado",
+    "imagen": "assets/tequila_monte_azul_reposado.jpg",
+    "descripcion": "",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 35
+  },
+  {
     "id": "vodka-skyy",
     "titulo": "Vodka SKYY",
     "categoria": "Vodka",
