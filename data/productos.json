@@ -903,18 +903,18 @@
     "gradoAlcoholico": 5.0
   },
   {
-    "id": "vino-malbec",
-    "titulo": "Vino Tinto Malbec",
+    "id": "vino-tinto-chileno-mancura",
+    "titulo": "Vino Tinto Mancura Carmernere",
     "categoria": "Vino",
     "presentacion": "750 ml",
-    "precio": null,
+    "precio": 8,
     "origen": "Importado",
-    "imagen": "assets/placeholder.jpg",
-    "descripcion": "Tinto argentino de cuerpo intenso y taninos suaves.",
+    "imagen": "assets/mancura_carmernere.png",
+    "descripcion": "Tinto chileno de cuerpo intenso y taninos suaves.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
-    "gradoAlcoholico": 13.5
+    "proximamente": false,
+    "gradoAlcoholico": 13
   },
   {
     "id": "vino-cabernet",
