@@ -864,14 +864,14 @@
     "id": "cerveza-club-verde",
     "titulo": "Cerveza Club Verde",
     "categoria": "Cerveza",
-    "presentacion": "330 ml",
-    "precio": null,
+    "presentacion": "473 ml",
+    "precio": 1.8,
     "origen": "Nacional",
-    "imagen": "assets/placeholder.jpg",
+    "imagen": "assets/club_lata_473.png",
     "descripcion": "Cerveza suave y ligera, clásico ecuatoriano.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 4.8
   },
   {
