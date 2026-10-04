@@ -420,6 +420,20 @@
     "proximamente": false,
     "gradoAlcoholico": 37
   },
+   {
+    "id": "aguardiente-zhumir-seco-extra-suave",
+    "titulo": "Zhumir seco extra suave",
+    "categoria": "Aguardiente",
+    "presentacion": "700 ml",
+    "precio": 5,
+    "origen": "Importado",
+    "imagen": "assets/zhumir_seco_extra_suave.png",
+    "descripcion": "",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 26
+  },
   
   
   
