@@ -365,7 +365,7 @@
     "origen": "Importado",
     "imagen": "assets/ron_castillo.png",
     "descripcion": "",
-    "destacado": true,
+    "destacado": false,
     "masVendido": false,
     "proximamente": false,
     "gradoAlcoholico": 37
@@ -549,7 +549,7 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 40
   },
   {
@@ -563,7 +563,7 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 35
   },
   {
@@ -577,7 +577,7 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 35
   },
   {
@@ -591,7 +591,7 @@
     "descripcion": "",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 35
   },
   {
@@ -738,14 +738,14 @@
     "id": "digestivo-fernet",
     "titulo": "Fernet (Branca Menta)",
     "categoria": "Digestivo",
-    "presentacion": 700 ml,
+    "presentacion": "700 ml",
     "precio": 30,
     "origen": "Importado",
     "imagen": "assets/fernet.jpg",
     "descripcion": "Licor digestivo de hierbas.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 28
   },
   {
