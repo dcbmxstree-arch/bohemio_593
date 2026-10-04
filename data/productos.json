@@ -893,15 +893,21 @@
     "titulo": "Cerveza Heineken",
     "categoria": "Cerveza",
     "presentacion": "330 ml",
-    "precio": null,
+    "precio": 2.25,
     "origen": "Importado",
-    "imagen": "assets/placeholder.jpg",
+    "imagen": "assets/cerveza_heineken.png",
     "descripcion": "Lager premium holandesa.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 5.0
   },
+
+
+
+
+
+  
   {
     "id": "vino-tinto-chileno-mancura",
     "titulo": "Vino Tinto Mancura Carmernere",
