@@ -406,7 +406,20 @@
     "proximamente": false,
     "gradoAlcoholico": 17
   },
-  
+  {
+    "id": "aguardiente-zhumir-tradicion",
+    "titulo": "Zhumir tradición",
+    "categoria": "Aguardiente",
+    "presentacion": "700 ml",
+    "precio": 5,
+    "origen": "Importado",
+    "imagen": "assets/zhumir_tradicion.png",
+    "descripcion": "",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 37
+  },
   
   
   
