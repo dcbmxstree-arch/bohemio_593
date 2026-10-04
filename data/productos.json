@@ -139,6 +139,13 @@
     "proximamente": false,
     "gradoAlcoholico": 35
   },
+
+
+
+
+
+
+  
   {
     "id": "vodka-skyy",
     "titulo": "Vodka SKYY",
@@ -349,6 +356,14 @@
     "proximamente": false,
     "gradoAlcoholico": 37.5
   },
+
+
+
+
+
+
+
+  
   {
     "id": "aguardiente-antioqueno-750",
     "titulo": "Aguardiente Antioqueño",
@@ -377,6 +392,28 @@
     "proximamente": false,
     "gradoAlcoholico": 29
   },
+  {
+    "id": "aguardiente-zhumir-durazno",
+    "titulo": "Zhumir Durazno",
+    "categoria": "Aguardiente",
+    "presentacion": "700 ml",
+    "precio": 5,
+    "origen": "Importado",
+    "imagen": "assets/zhumir_durazno.png",
+    "descripcion": "",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 17
+  },
+  
+  
+  
+  
+  
+  
+  
+  
   {
     "id": "whisky-chivas-12",
     "titulo": "Whisky Chivas Regal 12 Años",
