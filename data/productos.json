@@ -356,7 +356,20 @@
     "proximamente": false,
     "gradoAlcoholico": 37.5
   },
-
+{
+    "id": "ron-castillo-añejo",
+    "titulo": "Ron Castillo Añejo",
+    "categoria": "Ron",
+    "presentacion": "750 ml",
+    "precio": 10.5,
+    "origen": "Importado",
+    "imagen": "assets/ron_castillo.png",
+    "descripcion": "",
+    "destacado": true,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 37
+  },
 
 
 
