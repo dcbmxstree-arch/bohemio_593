@@ -937,18 +937,18 @@
     "gradoAlcoholico": 11
   },
   {
-    "id": "vino-sauvignon-blanc",
-    "titulo": "Vino Sauvignon Blanc",
+    "id": "vino-gato-negro-malbec",
+    "titulo": "Vino Gato Negro Malbec",
     "categoria": "Vino",
     "presentacion": "750 ml",
-    "precio": null,
+    "precio": 9,
     "origen": "Importado",
-    "imagen": "assets/placeholder.jpg",
-    "descripcion": "Blanco fresco y cítrico, ideal para acompañar mariscos.",
+    "imagen": "assets/vino_gato_negro_malbec.jpg",
+    "descripcion": "Vino tinto Malbec.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
-    "gradoAlcoholico": 12.5
+    "proximamente": false,
+    "gradoAlcoholico": 9
   },
   {
     "id": "vino-espumante",
