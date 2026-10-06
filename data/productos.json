@@ -902,7 +902,20 @@
     "proximamente": false,
     "gradoAlcoholico": 5.0
   },
-
+{
+    "id": "cerveza-oettinger",
+    "titulo": "Cerveza Oettinger",
+    "categoria": "Cerveza",
+    "presentacion": "500 ml",
+    "precio": 2.5,
+    "origen": "Importado",
+    "imagen": "assets/cerveza_oettinger.png",
+    "descripcion": " Color amarillo turbio natural, con abundante espuma blanca y fina.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 4.9
+  },
 
 
 
