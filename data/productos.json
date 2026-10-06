@@ -948,20 +948,20 @@
     "destacado": false,
     "masVendido": false,
     "proximamente": false,
-    "gradoAlcoholico": 9
+    "gradoAlcoholico": 13
   },
   {
-    "id": "vino-espumante",
-    "titulo": "Vino Espumante Brut",
+    "id": "vino-tinto-jp-chenet",
+    "titulo": "Vino tinto JP Chenet Merlot",
     "categoria": "Vino",
     "presentacion": "750 ml",
-    "precio": null,
+    "precio": 12,
     "origen": "Importado",
-    "imagen": "assets/placeholder.jpg",
-    "descripcion": "Burbuja fina, perfecto para brindis y celebraciones.",
+    "imagen": "assets/jp_chenet_merlot.png",
+    "descripcion": "Color rojo granate o rubí brillante.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
-    "gradoAlcoholico": 12.0
+    "proximamente": false,
+    "gradoAlcoholico": 13.5
   }
 ]
