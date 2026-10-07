@@ -992,5 +992,97 @@
     "masVendido": false,
     "proximamente": false,
     "gradoAlcoholico": 13.5
+  },
+
+
+
+
+
+
+
+  
+  {
+    "id": "otros-monster",
+    "titulo": "Monster Energy",
+    "categoria": "Otros",
+    "presentacion": "473 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Bebida energizante, ideal como mezclador.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 0
+  },
+  {
+    "id": "otros-redbull",
+    "titulo": "Red Bull",
+    "categoria": "Otros",
+    "presentacion": "250 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Bebida energizante clásica, ideal como mezclador.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 0
+  },
+  {
+    "id": "otros-amper",
+    "titulo": "Amper Energy",
+    "categoria": "Otros",
+    "presentacion": "400 ml",
+    "precio": null,
+    "origen": "Nacional",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Bebida energizante ecuatoriana.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 0
+  },
+  {
+    "id": "otros-v220",
+    "titulo": "V220",
+    "categoria": "Otros",
+    "presentacion": "400 ml",
+    "precio": null,
+    "origen": "Nacional",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Bebida energizante ecuatoriana.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 0
+  },
+  {
+    "id": "otros-gin",
+    "titulo": "Ginebra",
+    "categoria": "Otros",
+    "presentacion": "750 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Ginebra clásica para coctelería.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 40
+  },
+  {
+    "id": "otros-licor-crema",
+    "titulo": "Licor de Crema",
+    "categoria": "Otros",
+    "presentacion": "750 ml",
+    "precio": null,
+    "origen": "Importado",
+    "imagen": "assets/placeholder.jpg",
+    "descripcion": "Licor cremoso, suave y dulce, ideal para digestivo o coctelería.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": true,
+    "gradoAlcoholico": 17
   }
 ]
