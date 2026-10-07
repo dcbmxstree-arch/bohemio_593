@@ -1034,13 +1034,13 @@
     "titulo": "Amper Energy",
     "categoria": "Otros",
     "presentacion": "400 ml",
-    "precio": null,
+    "precio": 1,
     "origen": "Nacional",
     "imagen": "assets/placeholder.jpg",
     "descripcion": "Bebida energizante ecuatoriana.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 0
   },
   {
@@ -1048,13 +1048,13 @@
     "titulo": "V220",
     "categoria": "Otros",
     "presentacion": "400 ml",
-    "precio": null,
+    "precio": 1,
     "origen": "Nacional",
     "imagen": "assets/placeholder.jpg",
     "descripcion": "Bebida energizante ecuatoriana.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 0
   },
   {
