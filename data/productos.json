@@ -1002,17 +1002,17 @@
 
   
   {
-    "id": "otros-monster",
+    "id": "otros-monster-negro",
     "titulo": "Monster Energy",
     "categoria": "Otros",
     "presentacion": "473 ml",
-    "precio": null,
+    "precio": 3,
     "origen": "Importado",
-    "imagen": "assets/placeholder.jpg",
+    "imagen": "assets/monster_negro.png",
     "descripcion": "Bebida energizante, ideal como mezclador.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 0
   },
   {
@@ -1020,13 +1020,13 @@
     "titulo": "Red Bull",
     "categoria": "Otros",
     "presentacion": "250 ml",
-    "precio": null,
+    "precio": 2.5,
     "origen": "Importado",
-    "imagen": "assets/placeholder.jpg",
-    "descripcion": "Bebida energizante clásica, ideal como mezclador.",
+    "imagen": "assets/red_bull.png",
+    "descripcion": "Bebida energizante clásica, ideal como mezclador, precio por unidad.",
     "destacado": false,
     "masVendido": false,
-    "proximamente": true,
+    "proximamente": false,
     "gradoAlcoholico": 0
   },
   {
