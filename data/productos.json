@@ -1023,7 +1023,51 @@
     "proximamente": false,
     "gradoAlcoholico": 13.5
   },
+{
+    "id": "vino-anthony-mora",
+    "titulo": "Vino Anthony sabor mora",
+    "categoria": "Vino",
+    "presentacion": "250 ml",
+    "precio": 1.75,
+    "origen": "Importado",
+    "imagen": "assets/anthony_mora.png",
+    "descripcion": "Bebida espumosa, ligera y afrutada tipo ready to drink (lista para tomar), producida en Ecuador.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 5
+  },
+  {
+    "id": "vino-anthony-fresa",
+    "titulo": "Vino Anthony sabor fresa",
+    "categoria": "Vino",
+    "presentacion": "250 ml",
+    "precio": 1.75,
+    "origen": "Importado",
+    "imagen": "assets/anthony_fresa.png",
+    "descripcion": "Bebida espumosa, ligera y afrutada tipo ready to drink (lista para tomar), producida en Ecuador.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 5
+  },
+  {
+    "id": "vino-anthony-frmbuesa",
+    "titulo": "Vino Anthony sabor frambuesa",
+    "categoria": "Vino",
+    "presentacion": "250 ml",
+    "precio": 1.75,
+    "origen": "Importado",
+    "imagen": "assets/anthony_frambuesa.png",
+    "descripcion": "Bebida espumosa, ligera y afrutada tipo ready to drink (lista para tomar), producida en Ecuador.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 5
+  },
 
+
+  
 
 
 
