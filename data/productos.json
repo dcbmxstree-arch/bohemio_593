@@ -962,7 +962,20 @@
     "proximamente": false,
     "gradoAlcoholico": 4.9
   },
-
+{
+    "id": "cerveza-modelo",
+    "titulo": "Cerveza Modelo",
+    "categoria": "Cerveza",
+    "presentacion": "355 ml",
+    "precio": 2.5,
+    "origen": "Importado",
+    "imagen": "assets/cerveza_modelo.jpg",
+    "descripcion": " Color amarillo turbio natural, con abundante espuma blanca y fina.",
+    "destacado": false,
+    "masVendido": false,
+    "proximamente": false,
+    "gradoAlcoholico": 4.5
+  },
 
 
 
