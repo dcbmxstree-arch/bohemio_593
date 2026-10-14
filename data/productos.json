@@ -462,7 +462,20 @@
     "proximamente": false,
     "gradoAlcoholico": 26
   },
-  
+  {
+    "id": "aguardiente-norteño",
+    "titulo": "Norteño Blanco Especial",
+    "categoria": "Aguardiente",
+    "presentacion": "750 ml",
+    "precio": 7,
+    "origen": "Nacional",
+    "imagen": "assets/aguardiente_norteño.png",
+    "descripcion": "Es un aguardiente semiseco anisado originario de la ciudad de Ibarra",
+    "destacado": true,
+    "masVendido": true,
+    "proximamente": false,
+    "gradoAlcoholico": 27
+  },
   
   
   
@@ -478,7 +491,7 @@
     "origen": "Importado",
     "imagen": "assets/whisky_chivas_12_anos.jpg",
     "descripcion": "Blended Scotch Whisky añejado 12 años.",
-    "destacado": true,
+    "destacado": false,
     "masVendido": false,
     "proximamente": false,
     "gradoAlcoholico": 40
